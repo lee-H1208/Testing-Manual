@@ -23,7 +23,7 @@ A dashboard is a visual representation of your data.
 Previously, we used shuffleboard, which is another dashboard that displays NetworkTables data and widgets that can be initialized and created by robot code.
 
 ## What is the difference between Shuffleboard and Glass?
-Shuffleboard is more drive-train centric, meaning that it is a dashboard mainly used on the field during an actual competition game. 
+Shuffleboard is more drive-team centric, meaning that it is a dashboard mainly used on the field during an actual competition game. 
 
 Glass, on the other hand, is developed with programming debugging in mind. Several components of glass support this claim:
 1. Command-Based Widgets
