@@ -33,7 +33,7 @@ Shuffleboard is more drive-team centric, meaning that it is a dashboard mainly u
 Glass, on the other hand, is developed with programming debugging in mind. Several components of glass support this claim:
 1. Command-Based Widgets
 2. Viewing Robot Trajectories:
-3. Viewing Robot Pose
+3. Viewing Robot Pose:
 
 <br />
 <br />
